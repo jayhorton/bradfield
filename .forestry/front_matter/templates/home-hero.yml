@@ -18,3 +18,14 @@ fields:
     min: 
     max: 
     step: 
+- name: ghi
+  type: image_gallery
+  config: {}
+  label: ghi
+  description: ",b.kjb.kbj"
+- name: nv_
+  type: file
+  config:
+    maxSize: 64
+  label: 'nv '
+  description: 'mnb '
