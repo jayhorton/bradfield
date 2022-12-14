@@ -5,7 +5,6 @@ title: Bradfield 1
 excerpt: What can data analytics tell us about the Bradfield electoral results?
 date: 2022-12-13T13:00:00+00:00
 hero: "/images/bokeh/rocky_evening.jpg"
-draft: true
 
 ---
 Rion nobit ea qui nullique eos repro quis etur alitia voluptatio quatque nes dolorep tatur?
